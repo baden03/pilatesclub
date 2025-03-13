@@ -16,7 +16,8 @@ The client is evaluating several **third-party booking applications** that can i
 
 The client has conducted some **initial research** of booking apps they are considering. However, they need expert guidance, as they **cannot fully field-test** the options before committing.
 
-### Booking Short List
+### Booking Platform Front-Runners
+After evaluating multiple booking solutions, two platforms have emerged as the leading candidates based on their feature sets, Swiss market compatibility, and integration capabilities with Squarespace. Below is a detailed comparison:
 
 | **Feature**                                         | **Acuity Scheduling**                                                                                                                                                                                                                   | **SimplyBook.me**                                                                                                                                                                                                                                                        |
 |-----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
