@@ -33,15 +33,30 @@ The client has conducted some **initial research** of booking apps they are cons
 
 ## Project Phases
 
-### Phase 1: MVP Development
-- Once the **booking app is selected**, an **MVP (Minimum Viable Product)** needs to be launched on **Squarespace** as soon as possible.
+### Phase 1: Internal MVP Development
+- Once the **booking app is selected**, an internal team will launch an **MVP (Minimum Viable Product)** on **Squarespace**.
+- *Note: This phase will be handled internally and is not part of the request for proposal.*
 
 ### Phase 2: Full Website Development
 - The client will provide:
   - A **site map** with content.
   - A **corporate identity (CI)** for branding consistency.
-- Developers will provide **cost and time estimates** based on these materials.
+- Developers will provide:
+  - **Platform recommendations** based on their experience with:
+    - Integration capabilities
+    - Elderly user experience considerations
+    - Long-term maintainability
+  - **Cost and time estimates** for:
+    - Full website development
+    - Platform integration
+    - Testing and quality assurance
+    - Training and documentation
 - The goal is to have a **presentable version of the site** by **May 2025**. However, if more time is needed, the project can be delivered in **sub-phases**.
+
+## Site Map
+A **Site Map** has been provided by the client outlining the website's structure, navigation, and content organization. This document serves as a blueprint for the website's information architecture and user flow.
+
+📄 [Site Map](./Site_Map_Pilates_Club_2025.pdf)
 
 ## CI Design Book
 A **Corporate Identity (CI) Design Book** as been provided by the client to ensure brand consistency. This document outlines the design principles, typography, color schemes, and branding guidelines to be followed during development.
