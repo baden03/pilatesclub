@@ -57,7 +57,7 @@ After evaluating multiple booking solutions, two platforms have emerged as the l
 ## Site Map
 A **Site Map** has been provided by the client outlining the website's structure, navigation, and content organization. This document serves as a blueprint for the website's information architecture and user flow.
 
-📄 [Site Map](./Site_Map_Pilates_Club_2025.pdf)
+📄 [Site Map](./250314-PILATES CLUB-Web_Page_ENG.pdf)
 
 ## CI Design Book
 A **Corporate Identity (CI) Design Book** as been provided by the client to ensure brand consistency. This document outlines the design principles, typography, color schemes, and branding guidelines to be followed during development.
